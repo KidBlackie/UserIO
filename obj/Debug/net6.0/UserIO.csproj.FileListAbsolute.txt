@@ -1,0 +1,16 @@
+D:\user\projects\cs\UserIO\bin\Debug\net6.0\UserIO.exe
+D:\user\projects\cs\UserIO\bin\Debug\net6.0\UserIO.deps.json
+D:\user\projects\cs\UserIO\bin\Debug\net6.0\UserIO.runtimeconfig.json
+D:\user\projects\cs\UserIO\bin\Debug\net6.0\UserIO.dll
+D:\user\projects\cs\UserIO\bin\Debug\net6.0\ref\UserIO.dll
+D:\user\projects\cs\UserIO\bin\Debug\net6.0\UserIO.pdb
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.csproj.AssemblyReference.cache
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.AssemblyInfoInputs.cache
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.AssemblyInfo.cs
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.ImplicitNamespaceImports.cs
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.csproj.CoreCompileInputs.cache
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.dll
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\ref\UserIO.dll
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.pdb
+D:\user\projects\cs\UserIO\obj\Debug\net6.0\UserIO.genruntimeconfig.cache
